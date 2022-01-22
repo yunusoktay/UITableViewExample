@@ -46,7 +46,7 @@ class InitialTableViewController: UITableViewController {
     }
     
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        let alertController = UIAlertController(title: "Uyarı", message: tableViewData[indexPath.section][indexPath.row], preferredStyle: UIAlertController.Style.alert)
+        let alertController = UIAlertController(title: "Uyari", message: tableViewData[indexPath.section][indexPath.row], preferredStyle: UIAlertController.Style.alert)
         alertController.addAction(UIAlertAction(title: "TAMAM", style: UIAlertAction.Style.default, handler: { _ in
             alertController.dismiss(animated: true)
         }))
