@@ -1,4 +1,4 @@
 # UITableViewExample
 # UITableView ile çalıştığım bir proje 
 
-![alt text](https://files.fm/u/5d7djys6w#/view/594y7hpqw)
+![alt text](https://www.hizliresim.com/xruj94q)
